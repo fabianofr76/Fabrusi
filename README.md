@@ -14,10 +14,10 @@ content="text/html; charset=iso-8859-1">
 Foi assim quando o medico com o bisturi cortou a barriga da mamae eu segurando sua m�o bem forte suando frio o medico  <FONT COLOR="#DDRR"> E AO Dr LINK </FONT>que aqui abradeco de todo o coracao(Parabens DR o sr e DEZ)Puxou o nosso Baby,que chorando com o friozinho daquela manha, vez chichi no DR. Colocamos ele enroladinho no aquecedor onde passou alguns minutinhos comigo ao seu lado olhando e agradecendo a Deus,depois segurei ele pela primeira vez e levamos para mamae ver onde nos tres choramos abracados.</p>
 <p>  
 
-<IMG SRC="/POP/Bruno.jpg"ALT="600"WIDTH="250"HEIGHT="250"><MARQUEE BEHAVIOR=SLIDE DIRECTION=RIGHT>NO CARRINHO</MARQUEE>
-<IMG SRC="/POP/Bruno1.jpg"ALT="600"WIDTH="250"HEIGHT="250"><MARQUEE BEHAVIOR=SLIDE DIRECTION=LEFT>COM SONO</MARQUEE>
-<a href="/POP/index3.html"><FONT COLOR="#FF0000">CLIC AQUI</a>   
-<IMG SRC="/POP/Bruno2.jpg"ALT="600"WIDTH="250"HEIGHT="250"><MARQUEE BEHAVIOR=SCROLL WIDTH=30%>BRINCANDO</MARQUEE>
-<IMG SRC="/POP/BrunoetiaGra.jpg"ALT="600"WIDTH="250"HEIGHT="250">COM A TIA GRACIELI
-<IMG SRC="/POP/fada001.gif"><MARQUEE>
-<IMG SRC="/POP/Papaiefilho.jpg"ALT="600"WIDTH="250"HEIGHT="250">INTERNET   
+<IMG SRC="POP/Bruno.jpg"ALT="600"WIDTH="250"HEIGHT="250"><MARQUEE BEHAVIOR=SLIDE DIRECTION=RIGHT>NO CARRINHO</MARQUEE>
+<IMG SRC="POP/Bruno1.jpg"ALT="600"WIDTH="250"HEIGHT="250"><MARQUEE BEHAVIOR=SLIDE DIRECTION=LEFT>COM SONO</MARQUEE>
+<a href="POP/index3.html"><FONT COLOR="#FF0000">CLIC AQUI</a>   
+<IMG SRC="POP/Bruno2.jpg"ALT="600"WIDTH="250"HEIGHT="250"><MARQUEE BEHAVIOR=SCROLL WIDTH=30%>BRINCANDO</MARQUEE>
+<IMG SRC="POP/BrunoetiaGra.jpg"ALT="600"WIDTH="250"HEIGHT="250">COM A TIA GRACIELI
+<IMG SRC="POP/fada001.gif"><MARQUEE>
+<IMG SRC="POP/Papaiefilho.jpg"ALT="600"WIDTH="250"HEIGHT="250">INTERNET   
